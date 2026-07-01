@@ -3,7 +3,7 @@
   "short_name": "Anggaran",
   "description": "Aplikasi pencatatan keuangan dan anggaran bulanan pribadi",
   "start_url": "/keuangan/",
-  "scope": "/keuangan/",
+  "scope": "/index.html/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0f172a",
